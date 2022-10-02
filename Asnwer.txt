@@ -3,3 +3,4 @@
      Continious delivery is the extension of CI but it helps you to release the application on daily, weekly basis and is benificial for troubleshooting
      Continious is extension of CD in which all the stages passed in the production enviornment is seen(experienced) by the users. it can help highlighting problem if any and can help the work done to go live in seconds.
 
+3). Cloud Computing provides security,load balancing , security , operating system , networking and many other services at least possible cost. 
