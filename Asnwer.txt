@@ -4,3 +4,9 @@
      Continious is extension of CD in which all the stages passed in the production enviornment is seen(experienced) by the users. it can help highlighting problem if any and can help the work done to go live in seconds.
 
 3). Cloud Computing provides security,load balancing , security , operating system , networking and many other services at least possible cost. 
+
+4) Git is a cli that helps with interacting with repositories remotely, github is just a UI client that can help you manage your repository, permissions and security for authentication and authorization. 
+
+5) Working directory , staging area, local repository , remote repositiory. 
+
+6).  Git -soft, -hard and mixed . 
